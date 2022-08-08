@@ -1,11 +1,11 @@
 
-<p align="center"><a href="http://code.xiaoyou66.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="http://code.xiaoyou66.com/img/study.png" alt="logo"></a></p>
+<p align="center"><a href="http://booknote.jiangkk.top/" target="_blank" rel="noopener noreferrer"><img width="180" src="http://booknote.jiangkk.top/img/study.png" alt="logo"></a></p>
 
 <p align="center">
     <a href="http://booknote.jiangkk.top/"> <img src="https://badgen.net/badge/%E5%B0%8F%E6%B1%9F/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph"></a>
-  <a href="https://github.com/xiaoyou66/code-learn/actions?query=workflow%3ACI"><img src="https://github.com/xiaoyou66/code-learn/workflows/CI/badge.svg" alt="CI"></a>
-  <a href="https://github.com/xiaoyou66/code-learn"><img src="https://img.shields.io/github/stars/xiaoyou66/code-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
-   <a href="https://github.com/xiaoyou66/code-learn"> <img src="https://badgen.net/github/forks/xiaoyou66/code-learn?icon=github"></a>
+  <a href="https://github.com/feijiang00/booknote/actions?query=workflow%3ACI"><img src="https://github.com/feijiang00/booknote/workflows/CI/badge.svg" alt="CI"></a>
+  <a href="https://github.com/feijiang00/booknote"><img src="https://img.shields.io/github/stars/feijiang00/booknote?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
+   <a href="https://github.com/feijiang00/booknote"> <img src="https://badgen.net/github/forks/xiaoyou66/code-learn?icon=github"></a>
 <h1 align="center">📖程序员学习笔记</h1>
 <h4 align="center">一个码农的学习笔记</h4>
 
